@@ -1,2 +1,8 @@
-# LearnHub Your Center for Skill Enhancement
-LearnHub is an online learning platform. It offers skill-based education. It focuses on upskilling. It supports reskilling. It helps individuals. It helps entrepreneurs. It helps professionals. It delivers micro-learning. It delivers short courses. It uses video content. It includes quizzes. It includes certifications. It is user-friendly. It is accessible. It is affordable. It is mobile-friendly. It is flexible.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
